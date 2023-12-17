@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  width: 100px;
+  height: auto;
+  border-radius: 10%;
+  cursor: pointer;
+  padding: 10px;
+}
+.container {
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.video {
+  width: 100%;
+  height: auto;
+}
+.media-btn {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
